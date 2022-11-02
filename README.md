@@ -7,5 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 [![TSYW's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsyw)](https://github.com/tsyw/github-readme-stats)
 
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=tsyw&theme=xcode" /> </div>
+
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=tsyw" /> </div>
 
