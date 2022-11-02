@@ -1,5 +1,5 @@
 <h3 align="center">👋 Hello! I'm tsyw. </h3> 
-<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=tsyw" />
+<div align="center"> <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=tsyw" /> </div>
 
 <!---
 tsyw/tsyw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
